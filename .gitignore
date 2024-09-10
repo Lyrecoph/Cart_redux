@@ -1,5 +1,7 @@
 
 ### Contenu du fichier `.gitignore` :
+
+```bash
 # dependencies
 /node_modules
 /.pnp
