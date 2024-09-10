@@ -2,6 +2,9 @@
 
 This project is a **React** application utilizing **Redux** for state management. The main goal of this project is to handle cart functionality with actions such as adding and removing items from the cart in a clean and efficient way.
 
+![](public/Schreenshotcart1.png)
+![](public/Schreenshotcart2.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -42,7 +45,7 @@ This project is built with the following technologies:
         git clone https://github.com/Lyrecoph/react-redux-cart.git
     ```
 
-2. Navigate to the project directory:
+2. Navigate to the project directory: 
 
     ```bash
         cd react-redux-cart
